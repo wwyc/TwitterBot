@@ -1,0 +1,23 @@
+{
+  "name": "sd_search",
+  "version": "1.0.0",
+  "description": "search for software developer co-op/internships",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//git.com/wwyc/TwitterBot.git"
+  },
+  "keywords": [
+    "software",
+    "developer"
+  ],
+  "author": "Winnie Chan",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
