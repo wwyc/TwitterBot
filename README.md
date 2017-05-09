@@ -10,5 +10,5 @@ Used twit package:  https://www.npmjs.com/package/twit
 #searchBot.js
 - search for tweets that contain "software developer intern"
 
-#postBog.js
+#postBot.js
 - posts a random number every 20 seconds
