@@ -1,5 +1,4 @@
 // search for tweets that contain "software developer intern"
-
 console.log('The bot is starting');
 
 var Twit = require('twit');

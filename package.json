@@ -4,7 +4,6 @@
   "description": "search for software developer co-op/internships",
   "main": "bot.js",
   "scripts": {
-    "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +18,8 @@
   "license": "ISC",
   "dependencies": {
     "twit": "^2.2.5"
-  }
+  },
+  "engines": {
+  "node": "6.5.0"
+}
 }
